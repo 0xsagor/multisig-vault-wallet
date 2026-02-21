@@ -1,0 +1,10 @@
+{
+  "name": "multisig-vault-wallet",
+  "version": "1.0.0",
+  "description": "A secure M-of-N Multi-Signature Wallet contract",
+  "main": "index.js",
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "ethers": "^6.0.0"
+  }
+}
